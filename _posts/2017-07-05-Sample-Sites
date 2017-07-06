@@ -1,0 +1,20 @@
+--
+layout: post
+title: Sample Sites
+date: 2017-07-05 01:01:01
+categories: blog development
+--
+## Sample Jekyll Sites
+* http://travisneilson.com/
+* http://www.64notes.com/ https://github.com/64Notes/64notes.com
+* https://mmistakes.github.io/so-simple-theme/ https://github.com/mmistakes/so-simple-theme
+* Theme with appealing blog layout http://jekyll.gtat.me/ https://github.com/coletownsend/balzac-for-jekyll
+* Nice example of using _data folders https://olivermak.es/ https://github.com/opattison/olivermakes
+* Helpful list of snippets! HOORAY http://patternprimer.olivermak.es/ https://github.com/opattison/Pattern-Primer-Jekyll
+* Single page, rails-heavy site http://apptamers.com/ https://github.com/apptamers/apptamers.com
+
+
+### Where Did You Find These?
+Here are some great lists:
+* https://github.com/jekyll/jekyll/wiki/sites
+* https://www.reddit.com/r/web_design/comments/3qluv4/looking_for_examples_of_great_jekyll_sites/
