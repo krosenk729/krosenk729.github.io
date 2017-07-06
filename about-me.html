@@ -1,0 +1,28 @@
+--
+layout: page
+title: About Me
+permalink: /about-me/
+show_heading: true
+listofthings: 
+- One
+- Two
+- Three
+--
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+	{% if page.show_heading %}
+	<h1>{{ page.heading | upcase }}</h1>
+	{% endif %}
+	<ul>
+		{% for thingz in page.listofthings %}
+		<li>{{ thingz }}</li>
+		{% endfor %}
+	</ul>
+</body>
+</html>
