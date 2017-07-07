@@ -1,24 +1,14 @@
 ---
-layout: page
+layout: default
 title: Contact
 permalink: /contact/
+hero_img: /assets/images/min-5.jpg
 contactreasons:
 - Saying Hi
 - Business Inquiry
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>{{ page.title }}</title>
-</head>
-<body>
-	<h1>{{ page.title | upcase }}</h1>
-	<ul>
-		{% for reason in page.contactreasons %}
-			<li>{{ reason }}</li>
-		{% endfor %}
-	</ul>
-</body>
-</html>
+<ul>
+	{% for reason in page.contactreasons %}
+		<li>{{ reason }}</li>
+	{% endfor %}
+</ul>
