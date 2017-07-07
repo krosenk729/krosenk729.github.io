@@ -1,10 +1,10 @@
 ---
-layout: inner
+layout: post
 title: 'Katherine Resources'
 date: 2015-08-31 13:26:34
-categories: blog development
-tags: cats dogs code
-custom_var: 'meow meow meow'
+categories: [blog, development]
+image: /assets/images/min-10.jpg
+comments: true
 ---
 
 ## General Static Site Setup
@@ -27,6 +27,7 @@ custom_var: 'meow meow meow'
 * Drafting https://jekyllrb.com/docs/drafts/
 * Data files = menus, tracking codes, list of authors... anything json/csv/yaml https://jekyllrb.com/docs/datafiles/
 * Custom posts = collections https://jekyllrb.com/docs/collections/
+* Helpful blog https://mademistakes.com/articles/using-jekyll-2016/
 
 #### Theming and Plugins
 * https://jekyllrb.com/docs/themes/

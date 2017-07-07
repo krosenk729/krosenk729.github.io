@@ -8,5 +8,5 @@ social:
 
 menu:
 - { url: '/', text: 'Hey Home' }
-- { url: '/custom', text: 'Custom Page' }
-- { url: '/blog', text: 'Blog Posts' }
+- { url: '/about-me/', text: 'About Me' }
+- { url: '/blog/', text: 'Blog Posts' }

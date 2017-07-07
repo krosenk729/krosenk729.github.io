@@ -3,24 +3,9 @@
     <div class="container-fluid">
         <ul class="nav navbar-nav">
           {% for item in site.data.settings.menu %}
-            <li><a href="{{ item.url }}">{{ item.text }}</a></li>
+            <li><a href="{{ site.baseurl + item.url }}">{{ item.text }}</a></li>
           {% end for %}
         </ul>
       </div>
   </nav>
-
-  <div class="wrapper">
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <nav class="site-nav">
-      <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
-
-  </div>
-
 </header>
