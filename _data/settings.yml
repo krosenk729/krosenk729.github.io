@@ -7,6 +7,6 @@ social:
 
 
 menu:
-- { url: '/', text: 'Hey Home' }
+- { url: '/', text: 'Home' }
 - { url: '/about-me/', text: 'About Me' }
 - { url: '/blog/', text: 'Blog Posts' }

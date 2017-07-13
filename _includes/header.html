@@ -3,8 +3,8 @@
     <div class="container-fluid">
         <ul class="nav navbar-nav">
           {% for item in site.data.settings.menu %}
-            <li><a href="{{ site.baseurl + item.url }}">{{ item.text }}</a></li>
-          {% end for %}
+            <li><a href="{{ site.url }}{{ item.url }}" meta="{{item.url}}">{{ item.text }}</a></li>
+          {% endfor %}
         </ul>
       </div>
   </nav>

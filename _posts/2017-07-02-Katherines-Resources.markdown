@@ -15,6 +15,7 @@ comments: true
   * https://lenpaul.github.io/Millennial/ | https://github.com/LeNPaul/Millennial
   * https://lorepirri.github.io/cayman-blog/ | https://github.com/lorepirri/cayman-blog
   * http://incorporated.sendtoinc.com/ | https://github.com/kippt/jekyll-incorporated/
+* http://jmcglone.com/guides/github-pages/
 
 
 ## Markdown

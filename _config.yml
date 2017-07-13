@@ -1,5 +1,5 @@
 # Site wide configuration
-title:          "Making"
+title:          "Making Stuff by Katherine"
 description:    "Katherine learns to use Jekyll."
 locale:         en_US
 url:            http://localhost:4000
@@ -12,7 +12,3 @@ markdown:       kramdown
 
 # Plugins
 plugins:
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-seo-tag
-  - jekyll-paginate-v2

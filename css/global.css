@@ -41,6 +41,16 @@ p{
 /* ==========================================================================
    Social Buttons
    ========================================================================== */
-.social-buttons{
+.social-buttons li{
 	list-style: none;
+}
+
+.social-buttons ul{
+   display: inline-flex;
+   display: -webkit-;
+}
+
+.social-buttons i{
+   font-size: 60px;
+   padding: 1%;
 }

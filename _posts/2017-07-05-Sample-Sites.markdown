@@ -1,11 +1,11 @@
---
+---
 layout: post
 title: Sample Sites
 date: 2017-07-05 01:01:01
 categories: [blog, development]
 image: /assets/images/min-3.jpg
 comments: true
---
+---
 ## Sample Jekyll Sites
 * http://travisneilson.com/
 * http://www.64notes.com/ https://github.com/64Notes/64notes.com
